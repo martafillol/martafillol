@@ -1,6 +1,4 @@
 
-www.linkedin.com/in/martafillolbruguera
-
 # 👋 Hi, I'm Marta
 
 ### 🚀 Data & Analytics | AdTech | Programmatic | Growth  
@@ -10,6 +8,21 @@ I'm a **data-driven problem solver** with a background in **programmatic adverti
 Today, I'm on a mission to **bridge the gap between marketing and data science**, learning how to build efficient data pipelines, automate workflows, and extract meaningful insights.  
 
 ---
+
+## 💡 Background  
+
+- 🏆 **AdTech & Digital Marketing:** Experience working with **DSPs (DV360, Amazon, Xandr)** and analyzing **programmatic campaigns**  
+- 📊 **Data Analytics:** Transitioning into the data space through a **Data Science Bootcamp** and personal projects  
+- 🔍 **Problem-Solving & Automation:** Passionate about streamlining workflows and **turning raw data into action**  
+
+---
+
+## 👩🏻‍💻 Looking for
+
+- Opportunities to work in Data Science & Analytics, ideally within the AdTech/Marketing ecosystem
+- A place where I can grow as a professional while making an impact on business growth (Startups, Product development, Expansion)
+- I value growth, flexibility, open mindset and international collaborative environment
+
 
 ## 🌱 Next on my learning roadmap...
 
@@ -25,13 +38,6 @@ Right now, I’m focusing on:
 
 ---
 
-## 💡 Background  
-
-- 🏆 **AdTech & Digital Marketing:** Experience working with **DSPs (DV360, Amazon, Xandr)** and analyzing **programmatic campaigns**  
-- 📊 **Data Analytics:** Transitioning into the data space through a **Data Science Bootcamp** and personal projects  
-- 🔍 **Problem-Solving & Automation:** Passionate about streamlining workflows and **turning raw data into action**  
-
----
 
 ## 📂 Portfolio & Projects  
 
@@ -50,7 +56,9 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 
 ---
 
-## Blog & Personal Branding  
+## More about me 
+
+
 
 I believe in **sharing my learning journey** to help others who are also transitioning into data.  
 
