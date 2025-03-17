@@ -48,7 +48,9 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 ## 📖 Currently reading
 
 📚 *Hands-On machine learning with Scikit-Learn & Tensorflow* – Aurélien Geron
+
 📚 *Head First Java* – Kathy Sierra, Bert Bates  
+
 📚 *Revolution of Hope: Towards a Humanized Technology* – Erich Fromm
 
 ---
