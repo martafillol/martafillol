@@ -47,29 +47,21 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 
 ## 📖 Currently reading
 
-📚 *Hands-On machine learning with Scikit-Learn & Tensorflow* – Aurélien Geron
-
+📚 *Hands-On machine learning with Scikit-Learn & Tensorflow* – Aurélien Geron  
 📚 *Head First Java* – Kathy Sierra, Bert Bates  
-
 📚 *Revolution of Hope: Towards a Humanized Technology* – Erich Fromm
 
 ---
 
 ## 🦋 More about me 
 
-🐶 If having a dog is a personality, there it is
-
-🌿 I love plants, although they still die on me sometimes
-
-💎 I'm an obsidian freak (send me your productivity system)
-
-💬 I have a wordpress blog where I expose myself in Catalan > [quanpensomassa.com](https://quanpensomassa.com/)
-
-🚩 Perfectionism might kill me one day. Trying to focus on done > perfect
-
-🚩 Not good at small talk, you  might think I don't like you
-
-🚩 I hate wasting time, I will spend hours trying to auomate something just so I don't have to do a repetitive task that takes 5 min for the next 3 months
+🐶 If having a dog is a personality, there it is  
+🌿 I love plants, although they still die on me sometimes  
+💎 I'm an obsidian freak (send me your productivity system)  
+💬 I have a wordpress blog where I expose myself in Catalan > [quanpensomassa.com](https://quanpensomassa.com/)  
+🚩 Perfectionism might kill me one day. Trying to focus on done > perfect  
+🚩 Not good at small talk, you  might think I don't like you  
+🚩 I hate wasting time, I will spend hours trying to auomate something just so I don't have to do a repetitive task that takes 5 min for the next 3 months  
 
 ---
 
@@ -77,7 +69,7 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 
 I’d love to connect with **fellow data enthusiasts, marketers, and engineers**—feel free to reach out! 🚀  
 
-📍 Barcelona, Spain  
-💼 [LinkedIn]([https://linkedin.com/in/martafillol](https://www.linkedin.com/in/martafillolbruguera/)) 
-📧 [Email](mailto:martafillolbruguera@gmail.com)
+📍 Barcelona, Spain   
+💼 [LinkedIn]([https://linkedin.com/in/martafillol](https://www.linkedin.com/in/martafillolbruguera/))    
+📧 [Email](mailto:martafillolbruguera@gmail.com)  
 
