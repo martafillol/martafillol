@@ -70,6 +70,6 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 I’d love to connect with **fellow data enthusiasts, marketers, and engineers**—feel free to reach out! 🚀  
 
 📍 Barcelona, Spain   
-💼 [LinkedIn]([https://linkedin.com/in/martafillol](https://www.linkedin.com/in/martafillolbruguera/))    
+💼 [LinkedIn](https://linkedin.com/in/martafillol](https://www.linkedin.com/in/martafillolbruguera/)    
 📧 [Email](mailto:martafillolbruguera@gmail.com)  
 
