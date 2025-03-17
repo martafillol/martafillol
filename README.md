@@ -42,6 +42,7 @@ Right now, I’m focusing on:
 ## 📂 Portfolio & Projects  
 
 🔗 **[My Portfolio](#)** *(Coming Soon!)* – A collection of projects showcasing my transition from marketing analytics to data science & engineering.
+
 My priority at the moment: grow horizontal, then vertical. My way of learning is to master the language, structure and Machine learning stages first to build a firm foundation from where I can grow. I am focusing on theory and methodology, not building a super complex ML model that I wouldn't completely  understand.  
 
 *(More coming soon!)*  
@@ -56,19 +57,15 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 
 ---
 
-## More about me 
+## 🦋 More about me 
 
-
-
-I believe in **sharing my learning journey** to help others who are also transitioning into data.  
-
-🔗 **[My Blog](#)** *(Coming Soon!)* – Articles on data analytics, programmatic advertising, and career growth.  
-
-Topics I write about:  
-- My **career transition** from AdTech to Data  
-- Lessons from **learning Python, SQL, and data engineering**  
-- How **marketing analytics and data science intersect**  
-- Reflections on working in **programmatic & digital media**  
+🐶 If having a dog is a personality, there it is
+🌿 I love plants, although they still die on me sometimes
+💎 I'm an obsidian freak (send me your productivity system)
+💬 I have a wordpress blog where I expose myself in Catalan > quanpensomassa.com
+🚩 Perfectionism might kill me one day. Trying to focus on done > perfect
+🚩 Not good at small talk, you  might think I don't like you
+🚩 I hate wasting time, I will spend hours trying to auomate something just so I don't have to do a repetitive task that takes 5 min for the next 3 months
 
 ---
 
