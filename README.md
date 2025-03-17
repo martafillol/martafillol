@@ -5,8 +5,6 @@
 
 I'm a **data-driven problem solver** with a background in **programmatic advertising and digital marketing**, now transitioning into **data engineering & analytics**. My journey started with optimizing media campaigns, but I soon became fascinated with the **backend of data—how it's collected, structured, and used to drive impact**.  
 
-Today, I'm on a mission to **bridge the gap between marketing and data science**, learning how to build efficient data pipelines, automate workflows, and extract meaningful insights.  
-
 ---
 
 ## 💡 Background  
@@ -44,8 +42,6 @@ Right now, I’m focusing on:
 🔗 **[My Portfolio](#)** *(Coming Soon!)* – A collection of projects showcasing my transition from marketing analytics to data science & engineering.
 
 My priority at the moment: grow horizontal, then vertical. My way of learning is to master the language, structure and Machine learning stages first to build a firm foundation from where I can grow. I am focusing on theory and methodology, not building a super complex ML model that I wouldn't completely  understand.  
-
-*(More coming soon!)*  
 
 ---
 
