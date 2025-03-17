@@ -60,11 +60,17 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 ## 🦋 More about me 
 
 🐶 If having a dog is a personality, there it is
+
 🌿 I love plants, although they still die on me sometimes
+
 💎 I'm an obsidian freak (send me your productivity system)
+
 💬 I have a wordpress blog where I expose myself in Catalan > quanpensomassa.com
+
 🚩 Perfectionism might kill me one day. Trying to focus on done > perfect
+
 🚩 Not good at small talk, you  might think I don't like you
+
 🚩 I hate wasting time, I will spend hours trying to auomate something just so I don't have to do a repetitive task that takes 5 min for the next 3 months
 
 ---
