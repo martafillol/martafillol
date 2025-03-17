@@ -19,9 +19,9 @@ Today, I'm on a mission to **bridge the gap between marketing and data science**
 
 ## 👩🏻‍💻 Looking for
 
-- Opportunities to work in Data Science & Analytics, ideally within the AdTech/Marketing ecosystem
+- Opportunities to work in **Data Science & Analytics, ideally within the AdTech/Marketing ecosystem**
 - A place where I can grow as a professional while making an impact on business growth (Startups, Product development, Expansion)
-- I value growth, flexibility, open mindset and international collaborative environment
+- I value **growth, flexibility, open mindset and international** collaborative environment
 
 
 ## 🌱 Next on my learning roadmap...
@@ -65,7 +65,7 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 
 💎 I'm an obsidian freak (send me your productivity system)
 
-💬 I have a wordpress blog where I expose myself in Catalan > quanpensomassa.com
+💬 I have a wordpress blog where I expose myself in Catalan > [quanpensomassa.com](https://quanpensomassa.com/)
 
 🚩 Perfectionism might kill me one day. Trying to focus on done > perfect
 
@@ -78,7 +78,7 @@ My priority at the moment: grow horizontal, then vertical. My way of learning is
 ## 💬 Let's Connect!  
 
 📍 **Barcelona, Spain**  
-💼 **[LinkedIn](https://linkedin.com/in/martafillol)**  
-📧 **[Email](mailto:your@email.com)**  
+💼 [LinkedIn]([https://linkedin.com/in/martafillol](https://www.linkedin.com/in/martafillolbruguera/)) 
+📧 [Email](mailto:martafillolbruguera@gmail.com)
 
 I’d love to connect with **fellow data enthusiasts, marketers, and engineers**—feel free to reach out! 🚀  
