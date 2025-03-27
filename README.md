@@ -31,7 +31,7 @@ Right now, I’m focusing on:
 - **Machine Learning Ops (MLOps):** Understanding deployment and model tracking  
 - **Frontend & Backend Development** HTML, CSS, Javascript, Java
 - **Cloud Technologies:** GCP, AWS basics  
-- **Building Impactful Dashboards:** Tableau, Looker Studio
+- **Data Visualization:** Tableau, Looker Studio
 
 
 ---
