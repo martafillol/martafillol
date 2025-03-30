@@ -9,13 +9,13 @@ I'm a **data-driven problem solver** with a background in **programmatic adverti
 
 ## 💡 Background  
 
-- 🏆 **AdTech & Digital Marketing:** Experience working with **DSPs (DV360, Amazon, Xandr)** and analyzing **programmatic campaigns**  
+-  👩🏻‍💻**AdTech & Digital Marketing:** Experience working with **DSPs (DV360, Amazon, Xandr)** and analyzing **programmatic campaigns**  
 - 📊 **Data Analytics:** Transitioning into the data space through a **Data Science Bootcamp** and personal projects  
 - 🔍 **Problem-Solving & Automation:** Passionate about streamlining workflows and **turning raw data into action**  
 
 ---
 
-## 👩🏻‍💻 Looking for
+## 🎯 Looking for
 
 - Opportunities to work in **Data Science & Analytics, ideally within the AdTech/Marketing ecosystem**
 - A place where I can grow as a professional while making an impact on business growth (Startups, Product development, Expansion)
