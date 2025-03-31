@@ -33,16 +33,6 @@ Right now, I’m focusing on:
 - **Cloud Technologies:** GCP, AWS basics  
 - **Data Visualization:** Tableau, Looker Studio
 
-
----
-
-
-## 📂 Portfolio & Projects  
-
-🔗 **[My Portfolio](#)** *(Coming Soon!)* – A collection of projects showcasing my transition from marketing analytics to data science & engineering.
-
-My priority at the moment: grow horizontal, then vertical. My way of learning is to master the language, structure and Machine learning stages first to build a firm foundation from where I can grow. I am focusing on theory and methodology, not building a super complex ML model that I wouldn't completely  understand.  
-
 ---
 
 ## 📖 Currently reading
