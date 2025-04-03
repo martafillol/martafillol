@@ -57,7 +57,7 @@ Right now, I’m focusing on:
 
 ## 💬 Let's Connect!  
 
-I’d love to connect with **fellow data enthusiasts, marketers, and engineers**—feel free to reach out! 🚀  
+I’d love to connect with fellow data enthusiasts, marketers, and engineers—feel, free to reach out! 🚀  
 
 📍 Barcelona, Spain   
 💼 [LinkedIn](https://www.linkedin.com/in/martafillolbruguera/)    
