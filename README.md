@@ -17,7 +17,7 @@ I'm a data-driven problem solver with a background in **programmatic advertising
 
 ## 🎯 Looking for
 
-- Opportunities to work in **Data Science & Analytics, ideally within the AdTech/Marketing ecosystem**
+- Opportunities to work in **Data Science & Analytics**, ideally within the **AdTech/Marketing ecosystem**
 - A place where I can grow as a professional while making an impact on business growth (Startups, Product development, Expansion)
 - I value **growth, flexibility, open mindset and international** collaborative environment
 
