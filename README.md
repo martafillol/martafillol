@@ -3,7 +3,7 @@
 
 ### 🚀 Data Science & Analytics | AdTech 
 
-I'm a data-driven problem solver with a background in **programmatic advertising and digital marketing**, now transitioning into **data engineering & analytics**. My journey started with optimizing media campaigns, but I soon became fascinated with the **backend of data—how it's collected, structured, and used to drive impact**.  
+I'm a data-driven problem solver with a background in **programmatic advertising and digital marketing**, now transitioning into data engineering & analytics. My journey started with optimizing media campaigns, but I soon became fascinated with the **backend of data—how it's collected, structured, and used to drive impact**.  
 
 ---
 
